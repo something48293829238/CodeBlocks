@@ -4,7 +4,7 @@ import random
 from discord.ext import commands
 from random import choice 
 
-TOKEN = "ODc3MjMzNTEyOTkyODc0NTI2.YRvpXw.IK56swSaEN9YWxtP4GXHwA9X6GM"
+TOKEN = "PASTE TOKEN"
 client = commands.Bot(command_prefix = "$")
 client.remove_command("help")
 
